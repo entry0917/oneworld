@@ -1,1 +1,1 @@
-web: node ./app.js JeviSync https://jeviup.herokuapp.com
+web: node ./app.js JeviSync https://oneworld-entry.herokuapp.com
